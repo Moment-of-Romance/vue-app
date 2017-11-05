@@ -92,6 +92,9 @@ import { Toast } from "mint-ui"
       width: 60px;
       height: 60px;
     }
+    .mui-media-body {
+      font-size: 15px;
+    }
   }
 }
 </style>
